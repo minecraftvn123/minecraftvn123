@@ -10,7 +10,7 @@
 
 💬 Ask me about software development, AI, machine learning, or my experiences in these fields.
 
-📫 How to reach me: [Insert your preferred contact method, e.g., email, LinkedIn, GitHub]
+📫 How to reach me: trangsithai@dstteam.com
 
 😄 Pronouns: He/Him
 
