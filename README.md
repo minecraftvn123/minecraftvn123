@@ -1,16 +1,17 @@
 ## Hi there 👋
 
-<!--
-**minecraftvn123/minecraftvn123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I’m currently working on innovative software solutions, particularly in the fields of AI and machine learning.
 
-Here are some ideas to get you started:
+🌱 I’m currently learning advanced programming languages and exploring the latest trends in technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👯 I’m looking to collaborate on projects that push the boundaries of technology and have a positive impact on society.
+
+🤔 I’m looking for help with expanding my network and connecting with like-minded individuals.
+
+💬 Ask me about software development, AI, machine learning, or my experiences in these fields.
+
+📫 How to reach me: [Insert your preferred contact method, e.g., email, LinkedIn, GitHub]
+
+😄 Pronouns: He/Him
+
+⚡ Fun fact: I developed a smartphone anti-theft app when I was just 15 years old!
