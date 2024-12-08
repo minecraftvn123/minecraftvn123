@@ -8,10 +8,10 @@
 
 🤔 I’m looking for help with expanding my network and connecting with like-minded individuals.
 
-💬 Ask me about software development, AI, machine learning, or my experiences in these fields.
+💬 Ask me about software development, photography, video editing, or my experiences in these fields.
 
 📫 How to reach me: trangsithai@dstteam.com
 
-😄 Pronouns: He/Him
+😄 Nickname: minecraftvn123
 
 ⚡ Fun fact: I developed a smartphone anti-theft app when I was just 15 years old!
